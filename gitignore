@@ -1,0 +1,15 @@
+# Java build output
+*.class
+
+# Secrets: never commit API keys
+.env
+*.key
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+.idea/
+.vscode/
